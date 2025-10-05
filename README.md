@@ -13,5 +13,4 @@ View Bookings – Display all bookings with passenger and flight details.
 Language: Java (OOP, JDBC)
 Database: MySQL
 IDE: VS Code 
-
 Library: MySQL Connector/J (mysql-connector-j-9.4.0.jar)
