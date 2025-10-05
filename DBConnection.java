@@ -5,7 +5,7 @@ import java.sql.SQLException;
 public class DBConnection {
     private static final String URL = "jdbc:mysql://127.0.0.1:3306/airline_db";
     private static final String USER = "root";
-    private static final String PASSWORD = "260704@Teja"; 
+    private static final String PASSWORD = "your_password"; 
 
     public static Connection getConnection() {
         Connection conn = null;
@@ -19,3 +19,4 @@ public class DBConnection {
         return conn;
     }
 }
+
